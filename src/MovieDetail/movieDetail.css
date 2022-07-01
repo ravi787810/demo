@@ -1,0 +1,27 @@
+.movie-img{
+    width: 100px;
+    border-radius: 8px;
+}
+.detail-header
+{
+    border-radius:8px;
+    padding: 10px;
+    border: 1px solid rgb(179, 176, 176);
+    background-color: rgb(72, 125, 125);
+}
+.details
+{
+    padding: 4px;
+    height: 100%;
+}
+.title
+{
+    color: white;
+}
+.generes-tags
+{
+    background-color: #0a3436;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
